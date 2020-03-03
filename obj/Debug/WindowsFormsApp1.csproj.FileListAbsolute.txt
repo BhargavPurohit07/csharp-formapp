@@ -1,0 +1,12 @@
+M:\.net\WindowsFormsApp1\bin\Debug\test.accdb
+M:\.net\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+M:\.net\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+M:\.net\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+M:\.net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+M:\.net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+M:\.net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+M:\.net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+M:\.net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+M:\.net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+M:\.net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.aftlogin.resources
+M:\.net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reg.resources
